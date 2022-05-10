@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 10px;
+}
+#header-nav {
+    background-color: gray;
+    border-radius: 0;
+    border-top: 2px solid;
+    border-bottom: 2px solid;
+    padding: 0;
+}
+#nav-button {
+    border: 2px solid;
+    margin-right: 1em;
+}
+#nav-button:focus {
+    color: lightgray;
+} 
+.dropdown-item {
+    text-align: center;
+    background-color: white;
+    border-top: 2px solid;
+}
+.navbar {
+    padding-bottom: 0;
+}
+.container-fluid {
+    padding: 0;
+}
+.navbar-brand {
+    margin-left: 1em;
+}
+.navbar-toggler-icon {
+    color: black;
+}
+#menu-item {
+    background-color: grey;
+    margin-bottom: 20px;
+}
+#menu-item-text {
+    font-size: 7px;
+}
+#menu-item-header {
+    padding-top: 7px ;
+}
+
