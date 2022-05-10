@@ -1,7 +1,7 @@
 * {
     box-sizing: border-box;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: 10px;
+    font-size: 30px;
 }
 #header-nav {
     background-color: gray;
@@ -39,7 +39,7 @@
     margin-bottom: 20px;
 }
 #menu-item-text {
-    font-size: 7px;
+    font-size: 60%;
 }
 #menu-item-header {
     padding-top: 7px ;
